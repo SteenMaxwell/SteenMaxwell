@@ -1,4 +1,4 @@
-## Projects
+## Projects 🔭
 _______________________________________________________________________________________________________________
 ### E-Commerce Power BI Report
 ● Performed ETL on a 120,000-record e-commerce data-set, extracting data from Azure Storage and
