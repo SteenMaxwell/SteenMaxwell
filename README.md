@@ -11,7 +11,6 @@ environment.
 
 ### Exploratory Data Analysis: Customer Loans in Finance
 - Designed a custom python class to extract data from an RDS database with SQLAlchemy, and conducted ETL and cleaning on a 54,000 record financial loans data set.
-12/2024
 - Prepared the data using Pandas, including data cleaning of 40 columns, imputation of missing values, outlier removal and transformation of skewed data.
 - Answered 10 business questions by generating visualisations and exploring the data.
 
